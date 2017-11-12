@@ -1,0 +1,112 @@
+﻿
+body {
+    background-image: url('20171008_110707.jpg');
+    background-attachment: fixed;
+    background-size: 1500px;
+}
+
+a:link {
+    color: #ce125c;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ce125c;
+}
+
+a:hover {
+    color: #0ABBB5;
+}
+
+a:active {
+    color: #ce125c;
+}
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Abel', sans-serif;*/
+.name,
+.lastName {
+    color: #0ABBB5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 86px;
+    margin: 100px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.lastName {
+    margin-top: 0px;
+}
+
+.devTitle {
+    color: white;
+    font-family: 'Abel', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin: 0px 0px 50px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.namePlate {
+    background-color: rgba(0,0,0,.87);
+    height: 600px;
+    margin: 80px 0px 25px 0px;
+    top: 0;
+    width: 100%;
+}
+
+.creatHead,
+.whoHead,
+.conHead,
+.btn-group-vertical,
+.btn.btn-default,
+.button {
+    color: #ce125c;
+    font-size: 32px;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+    background-color: black;
+    border: none;
+    margin: 12px 0px 8px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+.glyphicon {
+    color: #ce125c;
+    margin: 2px 0px 2px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.navBar,
+.navbar-fixed-top {
+    background-color: black;
+    color: lightslategrey;
+    font-family: 'Franklin Gothic';
+    border-top-color: #ce125c;
+    border-top-width: 2px;
+    border-bottom-color: #ce125c;
+    border-bottom-width: .5px;
+}
+
+#navvy a:hover {
+    background-color: #ce125c;
+}
+
+#navvy a:link {
+    text-decoration: none;
+    color: #A5BDC1;
+}
+
+.nav.navbar-nav {
+    border: #ce125c;
+    border-bottom-width: 1px;
+}
+
+.creations {
+    margin-top: 150px;
+}
+
+.creatHead,
+.whoHead,
+.conHead {
+
+}
