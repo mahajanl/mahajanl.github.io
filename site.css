@@ -2,7 +2,7 @@
 body {
     background-image: url('20171008_110707.jpg');
     background-attachment: fixed;
-    background-size: 1500px;
+    background-size: 1800px;
 }
 
 a:link {
@@ -42,7 +42,7 @@ font-family: 'Abel', sans-serif;*/
     font-family: 'Abel', sans-serif;
     font-size: 50px;
     text-align: center;
-    margin: 0px 0px 50px 0px;
+    margin: 0px 0px 20px 0px;
     padding: 0px 0px 0px 0px;
 }
 
@@ -68,6 +68,14 @@ font-family: 'Abel', sans-serif;*/
     border: none;
     margin: 12px 0px 8px 0px;
     padding: 10px 0px 10px 0px;
+}
+.blurb {
+    color: lightslategray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 70px;
+    
 }
 
 .glyphicon {
