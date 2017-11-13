@@ -213,10 +213,54 @@ font-family: 'Abel', sans-serif;*/
     display: block;
     margin: auto;
 }
+
+.tusc {
+    display: block;
+    margin: auto;
+}
 .mainWhatIGot {
     width:
 }
 
-.contactForm{
-    margin: 20px 80px 20px 80px;
+.aboutMe {
+    padding: 20px 20px 10px 15px;
+    margin: 0px 20px 0px 20px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#whoIAm {
+    margin-top: 150px;
+}
+
+.techStack {
+    font-size: 20px;
+    color: #0ABBB5;
+}
+.myPic{
+    max-height: 350px;
+}
+.contactPart {
+    margin: 50px 50px 20px 40px;
+    padding: 10px 20px 5px 20px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+
+.connectBlurb{
+    padding-left: 80px
+}
+.extraPadding {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.footer {
+    color: #0ABBB5;
+    font-family: 'Motserrat', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    height: 100px;
+    margin-top: 300px;
 }
