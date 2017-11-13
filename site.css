@@ -130,15 +130,20 @@ font-family: 'Abel', sans-serif;*/
 .wardrobe1 {
     margin-bottom: 15px;
 }
+.contactContain,
 .whatIGot {
     margin: 0px 50px 0px 50px;
     background-color: rgba(255,255,255,.08);
     padding-bottom: 50px;
 }
 
-.mainWhatIGot {
-    padding: 24px 0px 10px 0px;
-}
+    .contactContain {
+        padding-top: 35px;
+    }
+    
+    .mainWhatIGot {
+        padding: 24px 0px 10px 0px;
+    }
 
 .shoes {
     max-height: 300px;
@@ -162,10 +167,16 @@ font-family: 'Abel', sans-serif;*/
 .descriptHeader {
     font-family: 'Montserrat', sans-serif;
     color: white;
+    margin-top: 160px;
     margin-bottom: 50px;
     border-bottom: 2px;
     border-color: #ce125c;
     text-align: center;
+}
+
+.createHeader {
+    color: #0ABBB5;
+    font-size: 52px
 }
 
 .learning {
@@ -183,8 +194,8 @@ font-family: 'Abel', sans-serif;*/
     text-align: center;
 }
 
-.learningPara {
-
+.creations {
+    margin-bottom: 100px;
 }
 
 .improvements {
@@ -193,6 +204,19 @@ font-family: 'Abel', sans-serif;*/
     font-size: 20px;
 }
 
+.locations {
+    margin-top: 110px;
+}
+.shoesImage {
+    height: 280px;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
 .mainWhatIGot {
     width:
+}
+
+.contactForm{
+    margin: 20px 80px 20px 80px;
 }
