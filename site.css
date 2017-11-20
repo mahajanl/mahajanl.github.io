@@ -220,6 +220,8 @@ font-family: 'Abel', sans-serif;*/
 .tusc {
     display: block;
     margin: auto;
+    max-height: 350px;
+    max-width: 100%;
 }
 .mainWhatIGot {
     width:
