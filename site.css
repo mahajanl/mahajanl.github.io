@@ -30,7 +30,7 @@ font-family: 'Abel', sans-serif;*/
 .lastName {
     color: #0ABBB5;
     font-family: 'Montserrat', sans-serif;
-    font-size: 86px;
+    font-size: 80px;
     margin: 100px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
     text-align: center;
@@ -158,8 +158,9 @@ font-family: 'Abel', sans-serif;*/
 .genDescript{
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    padding: 60px 30px 10px 30px;
+    font-size: 18px;
+    text-align: center; 
+    padding: 20px 20px 10px 20px;
 }
 
 .learningPara {
@@ -183,6 +184,11 @@ font-family: 'Abel', sans-serif;*/
     font-size: 52px
 }
 
+#initialHeader 
+{
+    margin-top: 450px;
+}
+
 .learning {
     padding: 20px 30px 10px 30px;
     margin: 0px 20px 0px 20px;
@@ -191,7 +197,7 @@ font-family: 'Abel', sans-serif;*/
 }
 
 .learningList {
-    padding: 20px 30px 10px 30px;
+    padding: 5px 30px 10px 30px;
     margin: 0px 20px 0px 20px;
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -201,14 +207,28 @@ font-family: 'Abel', sans-serif;*/
 .creations {
     margin-bottom: 150px;
 }
+.gitHub {
+    margin: 20px 0px 30px 0px;
+    font-size: 28px;
+    color: #0ABBB5;
+}
 
 .improvements {
-    color: white;
+    color: #0ABBB5;
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.techUsed {
+    color: #ce125c;
+    font-family: 'Abel', sans-serif;
+    font-size: 32px;
+    text-align: center;
 }
 
 .locations {
+    display:block;
+    margin: auto;
     margin-top: 110px;
 }
 .shoesImage {
@@ -217,15 +237,23 @@ font-family: 'Abel', sans-serif;*/
     display: block;
     margin: auto;
 }
-
+.tuscAdjust{
+    padding-top: 60px;
+    
+}
 .tusc {
     display: block;
     margin: auto;
-    max-height: 350px;
+    max-height: 475px;
     max-width: 100%;
 }
-.mainWhatIGot {
-    width:
+.tuscSmall{
+    display:block;
+    margin: auto;
+    max-height:400px;
+    max-width: 100%;
+    margin-top: 75px;
+    margin-bottom: 75px;
 }
 
 .aboutMe {
@@ -241,17 +269,18 @@ font-family: 'Abel', sans-serif;*/
 }
 
 .techStack {
-    font-size: 20px;
     color: #0ABBB5;
+    margin-bottom: 10px;
 }
+
 .myPic{
     max-height: 350px;
 }
 .contactPart {
-    margin: 50px 50px 20px 40px;
+    margin: 30px 50px 20px 40px;
     padding: 10px 20px 5px 20px;
     text-align: center;
-    font-size: 24px;
+    font-size: 26px;
     color: white;
 }
 
